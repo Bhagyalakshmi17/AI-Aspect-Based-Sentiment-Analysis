@@ -3,6 +3,9 @@
 An AI-powered NLP application that performs **Aspect-Based Sentiment Analysis (ABSA)** on product reviews.
 
 Unlike traditional sentiment analysis, which assigns a single sentiment to an entire review, this application identifies individual product aspects and analyzes the sentiment associated with each aspect separately.
+## 🚀 Live Demo
+
+👉 [Try the AI Aspect-Based Sentiment Analysis App](https://ai-aspect-based-sentiment-analysis.streamlit.app)
 
 ## 🚀 Features
 
